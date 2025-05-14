@@ -1,4 +1,4 @@
-# Proyecto de Scripts de Python
+# Proyectos de Scripts de Python
 
 Este repositorio contiene una serie de scripts de Python que fueron creados con fines educativos y experimentales. Los scripts están diseñados para demostrar conceptos de automatización, pruebas de seguridad y simulación de bots, entre otros. A continuación, se describen brevemente los scripts incluidos.
 
